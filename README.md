@@ -3,7 +3,7 @@ This repository contains the source code and dataset used in the research paper:
 **Title:** *Comparative Performance Evaluation of Machine Learning Models for Early Prediction of Diabetes*  
 **Journal:** International Journal of Emerging Technologies and Innovative Research (JETIR)  
 **ISSN:** 2349-5162  
-**Volume:** 12, **Issue:** 6, **Pages:** PPF25-F34, **Published:** June 2025  
+**Volume:** 12, **Issue:** 6, **Pages:** F25-F34, **Published:** June 2025  
 **Link to Paper:** [JETIR2506504.pdf](http://www.jetir.org/papers/JETIR2506504.pdf)
 
 ## Overview
